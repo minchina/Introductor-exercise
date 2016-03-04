@@ -7,6 +7,7 @@ import java.util.List;
 
 public class PrimeFactorExercises {
 
+
     @Test
     public void Test(){
         List<Integer> generate = generate(30);
@@ -37,4 +38,5 @@ public class PrimeFactorExercises {
             }
         }
     }
+
 }
